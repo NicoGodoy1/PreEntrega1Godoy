@@ -1,3 +1,10 @@
+* {
+    text-decoration: none;
+}
+a { 
+    text-decoration: none;
+  }
+
 .App {
     font-family: sans-serif;
     text-align: center;
@@ -6,4 +13,41 @@
 .gradiente-morado {
     background-image: linear-gradient(-90deg, rgb(211, 0, 152), rgb(68, 0, 153));
     color: white;
+}
+
+
+.cart-icon {
+    position: relative;
+    display: inline-block;
+}
+  
+.cart-icon i {
+    font-size: 20px;
+}
+  
+.cart-count {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.navbar {
+    color: white;
+    text-decoration: none;
+}
+.navbar:hover {
+    color: yellow;
+}
+
+li {
+    text-decoration: none;
 }

@@ -25,6 +25,8 @@
 // export default App;
 
 import "./styles.css";
+import "./index.css"
+
 
 // COMPONENTS
 import NavBar from "./components/NavBar/NavBar";
