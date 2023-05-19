@@ -46,8 +46,9 @@ a:link, a:visited, a:active {
     position: absolute;
     top: 0;
     right: 0;
-    background-color: black;
+    background-color: rgb(255, 8, 8);
     color: white;
+    font-weight: bold;
     border-radius: 50%;
     width: 20px;
     height: 20px;
