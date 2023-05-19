@@ -5,8 +5,8 @@ import 'bootstrap-icons/font/bootstrap-icons.css';
 
 const CartWidget = () => {
   return (
-    <div className="d-flex mx-0 cart-icon"> 
-        <i class="bi bi-cart3 mx-2 btn btn-light"></i>
+    <div className="d-flex mx-1 cart-icon"> 
+        <i class="bi bi-cart3 mx-2 btn btn-light carrito fs-4"></i>
         <p className="cart-count">0</p>
     </div>
   );

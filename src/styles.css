@@ -1,9 +1,9 @@
 * {
     text-decoration: none;
 }
-a { 
+a:link, a:visited, a:active { 
     text-decoration: none;
-  }
+}
 
 .App {
     font-family: Arial, Helvetica, sans-serif;

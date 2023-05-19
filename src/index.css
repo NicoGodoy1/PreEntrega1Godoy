@@ -50,3 +50,11 @@ code {
 /* .navbar:hover {
   color: yellow;
 } */
+
+.carrito {
+  height: 50px;
+  width: 50px;
+  padding: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
